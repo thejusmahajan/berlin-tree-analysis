@@ -1,15 +1,15 @@
-# Analysis Report: Berlin Steglitz-Zehlendorf Trees
+# Analysis Report: Recent Tree Plantings in Steglitz-Zehlendorf (2020-2025)
 
-## Overview
-This report analyzes the `2025_trees_steglitz.csv` dataset.
-**Important Note**: The dataset appears to consist exclusively of **recently planted trees** (younger than 6 years), likely representing a specific planting cohort or a subset of the full tree cadastre.
+## 1. Introduction
+This report analyzes a dataset of **recently planted trees** in the Berlin district of Steglitz-Zehlendorf.
+**Note:** This data represents a specific cohort of new plantings and does **not** reflect the full historical tree inventory of the district.
 
-## Key Findings
+## 2. Key Findings
 
-### 1. A Young Forest
-- **Average Age**: 3.6 years
-- **Oldest Tree**: 5 years
-- **Conclusion**: This dataset tracks recent urban greening efforts, not the historical tree stock.
+### 2.1 Age Structure: A Cohort of Saplings
+-   **Average Age**: 3.6 years
+-   **Oldest Tree**: 5 years
+-   **Interpretation**: The dataset consists exclusively of young trees planted in the last 5 years. This reflects active urban greening efforts but should not be mistaken for the age of the district's established forest.
 
 ### 2. Species Selection
 The most common species planted in recent years are:
